@@ -1,1 +1,20 @@
+## 🔐 [Search Skills] - TryHackMe Writeup
 
+### 🧠 Room Summary
+Learn to efficiently search the Internet and use specialized search engines and technical docs.
+
+### 💻 Environment and Tools
+- 使用ツール（nmap, Hydraなど）
+
+### 🚀 Steps
+1. スキャン
+2. 脆弱性の発見
+3. 攻撃方法の実行
+4. フラグ取得
+
+### 🏁 Flags
+- ユーザーフラグ
+- ルートフラグ（例に置き換える）
+
+### 💬 Thoughts
+何を学んだか、自分の気づきや改善したい点
