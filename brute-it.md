@@ -21,4 +21,5 @@ This room focuses on brute force attacks using Hydra. It teaches basic service e
 
 ### 💬 Thoughts
 I learned how automated password attacks work and the importance of strong credentials in SSH access.
-This room reinforced my understanding of brute-force techniques and the importance of strong password policies. Using Hydra in Kali Linux gave me hands-on experience with automated attacks, and I learned how attackers can easily exploit weak SSH credentials if proper security measures aren’t in place.
+This room reinforced my understanding of brute-force techniques and the importance of strong password policies. Using Hydra in Kali Linux gave me hands-on experience with automated attacks, and I learned how attackers can easily exploit weak SSH credentials if proper security measures aren’t in place..
+
