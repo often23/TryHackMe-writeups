@@ -15,8 +15,6 @@ Embark on the journey of learning the fundamentals of Linux. Learn to run some o
     -   find
     -   &
     -   &&
-    -   >
-    -   >>
 
 ### 🚀 Steps
 1. Learn what Linux is
