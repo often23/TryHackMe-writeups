@@ -13,7 +13,7 @@ Ideal for beginners exploring offensive security workflows.
 - `exiftool` - Metadata inspection  
 - `steghide` - Steganography analysis  
 - `gobuster` - Hidden directory brute-forcing
-- 
+  
 ### 🚀 Steps
 1. Reconnaissance and Port Scanning  
 2. File Discovery via SMB or HTTP  
@@ -21,10 +21,11 @@ Ideal for beginners exploring offensive security workflows.
 4. Vulnerability Identification (WordPress, uploads, etc.)  
 5. Exploitation (Credential attacks, RCE)  
 6. Privilege Escalation and Cleanup
+7. Metasploit exploit attack
 
 ### 🏁 Flags
-- ユーザーフラグ
-- ルートフラグ（例に置き換える）
+- user.txt　Metasploit
+- root.txt　Metasploit
 
 ### 💬 Thoughts
 Throughout this room, I learned how to download and examine files using `get`, uncovering vulnerabilities through content analysis. Understanding hidden directories and WordPress structure proved especially useful from a forensic perspective.
