@@ -30,6 +30,6 @@ wireshark
 - This hands-on experience made abstract concepts like encapsulation and protocol layering much easier to grasp, and I feel more confident in applying this knowledge to future cybersecurity tasks.
 
 🗂️ Tags
-#TryHackMe #OSIModel #CyberSecurityLearning #Writeup #BeginnerFriendly
+#TryHackMe #OSIModel #CyberSecurityLearning #Writeup  #BeginnerFriendly
 
 
