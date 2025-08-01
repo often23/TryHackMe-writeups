@@ -19,8 +19,8 @@ In this room, you will learn the basic structure and communication mechanisms of
 - Diagrams showing the roles of hosts, switches, and routers
 - Communication within a LAN is based on MAC addresses
 
-### 2. Checking IP and MAC Addresses
-``` bash
+ 2. Checking IP and MAC Addresses
+- bash
 ifconfig
 arp -a
 
