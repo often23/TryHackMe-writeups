@@ -12,5 +12,5 @@ Each writeup documents the steps, tools, and insights gained through practical h
 
 ## 🏆 実績
 
-![TryHackMe Diamond League 1st Place] (https://assets.tryhackme.com/room-badges/ab2ae4514f405fbc6431524788fc7631.png)
+[TryHackMe Diamond League 1st Place] (https://assets.tryhackme.com/room-badges/ab2ae4514f405fbc6431524788fc7631.png)
 August 2025: 1st place in the Diamond League
